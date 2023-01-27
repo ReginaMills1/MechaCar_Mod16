@@ -3,7 +3,8 @@
 
 ## Linear Regression to Predict MPG
 
-![lm](/MechCar_Statistical_Analysis/blob/main/Resources/lm.png)!
+![image](https://user-images.githubusercontent.com/112450151/214977297-91c68c2c-932b-4db6-8b5d-6a3a8ddf783a.png)
+
 
 1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
@@ -19,9 +20,10 @@
 
 ## Summary Statistics on Suspension Coils
 
-![total_summary](/MechCar_Statistical_Analysis/blob/main/Resources/total_summary.png)!
+![image](https://user-images.githubusercontent.com/112450151/214977335-05ba0c93-9d0e-493e-b97a-14bcedd5333a.png)
 
-![lot-summary](/MechCar_Statistical_Analysis/blob/main/Resources/lot_summary.png)!
+![image](https://user-images.githubusercontent.com/112450151/214977378-067aa2d9-4003-4996-97c9-834eb571317d.png)
+
 
 1. The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
@@ -29,7 +31,8 @@
 
 ## T-Tests on Suspension Coils
 
-![t-test](/MechCar_Statistical_Analysis/blob/main/Resources/t-test.png)!
+![image](https://user-images.githubusercontent.com/112450151/214977436-67cbbcc6-13d1-45b7-80d6-237d79b435ef.png)
+
 
 ### Overall
 
